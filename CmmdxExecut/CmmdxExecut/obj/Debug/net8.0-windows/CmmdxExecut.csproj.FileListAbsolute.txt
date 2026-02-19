@@ -1,0 +1,328 @@
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.exe
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.deps.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.runtimeconfig.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.pdb
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\XenoUI.pdb
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.AssemblyReference.cache
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.Form1.resources
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.GenerateResource.cache
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.AssemblyInfoInputs.cache
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.AssemblyInfo.cs
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.CoreCompileInputs.cache
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExe.1A97280A.Up2Date
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\refint\CmmdxExecut.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.pdb
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.genruntimeconfig.cache
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\ref\CmmdxExecut.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\142.0.3595.94.manifest
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\AdSelectionAttestationsPreloaded\ad-selection-attestations.dat
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\AdSelectionAttestationsPreloaded\manifest.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EBWebView\x64\EmbeddedBrowserWebView.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EBWebView\x86\EmbeddedBrowserWebView.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Edge.dat
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EdgeWebView.dat
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Extensions\external_extensions.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Locales\en-US.pak
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\MEIPreload\manifest.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\MEIPreload\preloaded_data.pb
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\PdfPreview\PdfPreviewHandler.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Advertising
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Analytics
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\CompatExceptions
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Content
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Cryptomining
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Entities
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Fingerprinting
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\LICENSE
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Other
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Social
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\TransparentAdvertisers
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Advertising
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Analytics
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Content
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Cryptomining
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Entities
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Fingerprinting
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\LICENSE
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Other
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Social
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Staging
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\manifest.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll.sig
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\manifest.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\concrt140.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\d3dcompiler_47.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\delegatedWebFeatures.sccd
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dual_engine_adapter_x64.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dxcompiler.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dxil.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\edge_feedback\camera_mf_trace.wprp
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\edge_feedback\mf_trace.wprp
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\elevated_tracing_service.exe
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\eventlog_provider.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\ffmpeg.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\icudtl.dat
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\learning_tools.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\libEGL.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\libGLESv2.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\microsoft_shell_integration.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_core.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_core_gn.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_protection_sdk.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mscopilot.exe
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge.dll.sig
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_100_percent.pak
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_200_percent.pak
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_elf.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_wer.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedgewebview2.exe
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedgewebview2.exe.sig
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mspdf.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msvcp140.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msvcp140_codecvt_ids.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\notification_helper.exe
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\oneauth.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\oneds.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\onnxruntime.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\onramp.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\prefs_enclave_x64.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\resources.pak
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\show_third_party_software_licenses.bat
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\telclient.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\v8_context_snapshot.bin
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vccorlib140.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vcruntime140.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vcruntime140_1.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vk_swiftshader.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vk_swiftshader_icd.json
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vulkan-1.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\wdag.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\webview2_integration.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\wns_push_client.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.Form2.resources
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\AdSelectionAttestationsPreloaded\ad-selection-attestations.dat
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\AdSelectionAttestationsPreloaded\manifest.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EBWebView\x64\EmbeddedBrowserWebView.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EBWebView\x86\EmbeddedBrowserWebView.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Edge.dat
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\EdgeWebView.dat
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Extensions\external_extensions.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Locales\en-US.pak
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\MEIPreload\manifest.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\MEIPreload\preloaded_data.pb
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\PdfPreview\PdfPreviewHandler.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Advertising
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Analytics
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\CompatExceptions
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Content
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Cryptomining
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Entities
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Fingerprinting
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\LICENSE
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Other
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\Social
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Mu\TransparentAdvertisers
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Advertising
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Analytics
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Content
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Cryptomining
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Entities
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Fingerprinting
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\LICENSE
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Other
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Social
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\Sigma\Staging
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Trust Protection Lists\manifest.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll.sig
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\WidevineCdm\manifest.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\concrt140.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\d3dcompiler_47.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\delegatedWebFeatures.sccd
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dual_engine_adapter_x64.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dxcompiler.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\dxil.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\edge_feedback\camera_mf_trace.wprp
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\edge_feedback\mf_trace.wprp
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\elevated_tracing_service.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\eventlog_provider.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\ffmpeg.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\icudtl.dat
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\learning_tools.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\libEGL.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\libGLESv2.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\microsoft_shell_integration.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_core.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_core_gn.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mip_protection_sdk.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mscopilot.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge.dll.sig
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_100_percent.pak
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_200_percent.pak
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_elf.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedge_wer.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedgewebview2.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msedgewebview2.exe.sig
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\mspdf.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msvcp140.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\msvcp140_codecvt_ids.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\notification_helper.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\oneauth.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\oneds.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\onnxruntime.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\onramp.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\prefs_enclave_x64.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\resources.pak
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\show_third_party_software_licenses.bat
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\telclient.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\v8_context_snapshot.bin
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vccorlib140.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vcruntime140.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vcruntime140_1.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vk_swiftshader.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vk_swiftshader_icd.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\vulkan-1.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\wdag.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\webview2_integration.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\wns_push_client.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.deps.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.runtimeconfig.json
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\CmmdxExecut.pdb
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\XenoUI.pdb
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.AssemblyReference.cache
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.Form1.resources
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.Form2.resources
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.GenerateResource.cache
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.AssemblyInfoInputs.cache
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.AssemblyInfo.cs
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.csproj.CoreCompileInputs.cache
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExe.1A97280A.Up2Date
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\refint\CmmdxExecut.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.pdb
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\CmmdxExecut.genruntimeconfig.cache
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\obj\Debug\net8.0-windows\ref\CmmdxExecut.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\144.0.3719.115.manifest
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\WebView2\Installer\copilot_setup.exe
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\Siticone.Desktop.UI.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\SiticoneNetCoreUI.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\SiticoneNetFrameworkUI.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll

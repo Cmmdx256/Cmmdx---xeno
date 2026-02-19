@@ -1,0 +1,46 @@
+[2026-02-16 16:30:48.841] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-16 16:30:48.841] [Xeno] [info] Version: Xeno - v1.3.25b
+[2026-02-16 16:30:48.841] [Xeno] [info] Log file: C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2026-02-16_16-30-48.log
+[2026-02-16 16:30:48.842] [Xeno] [debug] Client Checker thread: 0x9d4697e6a0
+[2026-02-16 16:30:48.842] [Xeno] [debug] Xeno Caching thread: 0x9d4697e690
+[2026-02-16 16:30:48.842] [Xeno] [debug] WebSockets Cleaner thread: 0x9d4697e680
+[2026-02-16 16:30:48.842] [Cache] [info] Caching file: C:\Users\Theso\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-16 16:30:48.843] [Xeno] [debug] Xeno Server thread: 0x9d4697e670
+[2026-02-16 16:30:48.843] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-16 16:30:48.843] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-16 16:30:53.297] [Xeno] [info] Creating new RBXClient: 22044
+[2026-02-16 16:30:53.297] [Xeno] [info] Creating new RBXClient: 23432
+[2026-02-16 16:30:53.297] [RBXClient] [info] [22044]: Initializing...
+[2026-02-16 16:30:53.297] [RBXClient] [info] [23432]: Initializing...
+[2026-02-16 16:30:53.298] [RBXClient] [info] [22044]: Version: version-bd08027bb04e4045
+[2026-02-16 16:30:53.298] [RBXClient] [info] [23432]: Version: version-bd08027bb04e4045
+[2026-02-16 16:30:53.298] [Xeno] [debug] Created RBXClient instance @0x228970087a0
+[2026-02-16 16:30:53.298] [Xeno] [info] Successfully created RBXClient: 22044
+[2026-02-16 16:30:53.298] [Xeno] [debug] Created RBXClient instance @0x22897008380
+[2026-02-16 16:30:53.298] [Xeno] [info] Successfully created RBXClient: 23432
+[2026-02-16 16:30:53.298] [RBXClient] [trace] [22044]: Attempting to retrieve RBXClient data...
+[2026-02-16 16:30:53.298] [RBXClient] [trace] [23432]: Attempting to retrieve RBXClient data...
+[2026-02-16 16:30:53.341] [RBXClient] [trace] [23432]: Successfully retrieved RBXClient data (Primary)
+[2026-02-16 16:30:53.341] [RBXClient] [debug] [23432]: Fetching DataModel...
+[2026-02-16 16:30:53.354] [RBXClient] [trace] [22044]: Successfully retrieved RBXClient data (Primary)
+[2026-02-16 16:30:53.355] [RBXClient] [debug] [22044]: Fetching DataModel...
+[2026-02-16 16:30:53.382] [RBXClient] [debug] [23432]: 	String: 0x15d96496d50
+[2026-02-16 16:30:53.382] [RBXClient] [debug] [23432]: 	RenderView: 0x15d8c190580
+[2026-02-16 16:30:53.383] [RBXClient] [debug] [23432]: DataModel (Ugc): 0x15d8a3eb638
+[2026-02-16 16:30:53.384] [RBXClient] [debug] [23432]: LocalPlayer: 0x15d98447080
+[2026-02-16 16:30:53.384] [RBXClient] [debug] [xxrealxxpro56 (23432)]: LocalPlayer Name: 'xxrealxxpro56'
+[2026-02-16 16:30:53.385] [RBXClient] [trace] [xxrealxxpro56 (23432)]: Attaching in-game using translation module.
+[2026-02-16 16:30:53.386] [RBXClient] [debug] [xxrealxxpro56 (23432)]: EventConnection: 0x15d8cb62540, SharedString: 0x15d8cb50bc0
+[2026-02-16 16:30:53.395] [RBXClient] [debug] [22044]: 	String: 0x209164e7250
+[2026-02-16 16:30:53.396] [RBXClient] [debug] [22044]: 	RenderView: 0x209106c0a80
+[2026-02-16 16:30:53.396] [RBXClient] [debug] [22044]: DataModel (Ugc): 0x2090a42b638
+[2026-02-16 16:30:53.397] [RBXClient] [debug] [22044]: LocalPlayer: 0x20918953080
+[2026-02-16 16:30:53.397] [RBXClient] [debug] [ergergegrg51 (22044)]: LocalPlayer Name: 'ergergegrg51'
+[2026-02-16 16:30:53.398] [RBXClient] [trace] [ergergegrg51 (22044)]: Attaching in-game using translation module.
+[2026-02-16 16:30:53.399] [RBXClient] [debug] [ergergegrg51 (22044)]: EventConnection: 0x20910bf2700, SharedString: 0x2090ffdaa00
+[2026-02-16 16:30:53.606] [RBXClient] [trace] [xxrealxxpro56 (23432)]: Intercepted translation module @0x15d8cb64f40
+[2026-02-16 16:30:53.634] [RBXClient] [trace] [xxrealxxpro56 (23432)][::CRefresh]: Client DataModel refreshed
+[2026-02-16 16:30:53.638] [RBXClient] [trace] [xxrealxxpro56 (23432)]: Attach ping received from client "xxrealxxpro56", This indicates everything was successful.
+[2026-02-16 16:30:53.649] [RBXClient] [trace] [ergergegrg51 (22044)]: Intercepted translation module @0x20910bf5100
+[2026-02-16 16:30:53.683] [RBXClient] [trace] [ergergegrg51 (22044)][::CRefresh]: Client DataModel refreshed
+[2026-02-16 16:30:53.689] [RBXClient] [trace] [ergergegrg51 (22044)]: Attach ping received from client "ergergegrg51", This indicates everything was successful.

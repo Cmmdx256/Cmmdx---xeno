@@ -1,0 +1,26 @@
+[2025-11-23 20:26:56.634] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-11-23 20:26:56.634] [Xeno] [info] Version: Xeno - v1.3.00
+[2025-11-23 20:26:56.634] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-11-23_20-26-56.log
+[2025-11-23 20:26:56.638] [Xeno] [debug] Client Checker thread: 0x45eb57e500
+[2025-11-23 20:26:56.638] [Xeno] [debug] Xeno Caching thread: 0x45eb57e4f0
+[2025-11-23 20:26:56.639] [Xeno] [debug] WebSockets Cleaner thread: 0x45eb57e4e0
+[2025-11-23 20:26:56.639] [Xeno] [debug] Xeno Server thread: 0x45eb57e4d0
+[2025-11-23 20:26:56.642] [Server] [info] Listening on http://localhost:3110
+[2025-11-23 20:26:56.670] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-11-23 20:26:58.926] [Xeno] [info] Creating new RBXClient: 30976
+[2025-11-23 20:26:58.926] [RBXClient] [info] [30976]: Initializing...
+[2025-11-23 20:26:58.926] [RBXClient] [info] [30976]: Version: version-e380c8edc8f6477c
+[2025-11-23 20:26:58.926] [Xeno] [debug] Created RBXClient instance @0x18c829fe4d0
+[2025-11-23 20:26:58.926] [Xeno] [info] Successfully created RBXClient: 30976
+[2025-11-23 20:26:58.927] [RBXClient] [debug] [30976]: Fetching DataModel...
+[2025-11-23 20:26:58.961] [RBXClient] [debug] [30976]: 	String: 0x211a8ba25d0
+[2025-11-23 20:26:58.961] [RBXClient] [debug] [30976]: 	RenderView: 0x211a7042400
+[2025-11-23 20:26:58.961] [RBXClient] [debug] [30976]: DataModel (Ugc): 0x2119941b638
+[2025-11-23 20:26:58.961] [RBXClient] [debug] [30976]: LocalPlayer: 0x211a13bc080
+[2025-11-23 20:26:58.961] [RBXClient] [debug] [wefweffwefe4 (30976)]: LocalPlayer Name: 'wefweffwefe4'
+[2025-11-23 20:26:58.962] [RBXClient] [trace] [wefweffwefe4 (30976)]: Attaching in-game using translation module.
+[2025-11-23 20:26:58.963] [RBXClient] [debug] [wefweffwefe4 (30976)]: EventConnection: 0x211a2054600, SharedString: 0x211a3d13a00
+[2025-11-23 20:26:59.104] [RBXClient] [trace] [wefweffwefe4 (30976)]: Intercepted translation module @0x211a2057c00
+[2025-11-23 20:26:59.136] [RBXClient] [trace] [wefweffwefe4 (30976)]: Attach ping received from client "wefweffwefe4", This indicates everything was successful.
+[2025-11-23 20:27:04.555] [Xeno] [info] Removed RBXClient: 30976
+[2025-11-23 20:27:09.571] [Xeno] [info] Cleaned up '30976' from InitializedClients

@@ -1,0 +1,10 @@
+[2026-02-16 14:58:16.755] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-16 14:58:16.755] [Xeno] [info] Version: Xeno - v1.3.25b
+[2026-02-16 14:58:16.755] [Xeno] [info] Log file: C:\Users\Theso\OneDrive\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2026-02-16_14-58-16.log
+[2026-02-16 14:58:16.756] [Xeno] [debug] Client Checker thread: 0x50f4d7e8a0
+[2026-02-16 14:58:16.756] [Xeno] [debug] Xeno Caching thread: 0x50f4d7e890
+[2026-02-16 14:58:16.756] [Xeno] [debug] WebSockets Cleaner thread: 0x50f4d7e880
+[2026-02-16 14:58:16.756] [Cache] [info] Caching file: C:\Users\Theso\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-16 14:58:16.757] [Xeno] [debug] Xeno Server thread: 0x50f4d7e870
+[2026-02-16 14:58:16.757] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-16 14:58:16.757] [Server] [info] Visit http://localhost:3110 to view any additional information

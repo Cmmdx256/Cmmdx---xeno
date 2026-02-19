@@ -1,0 +1,45 @@
+[2025-12-07 12:06:50.956] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-12-07 12:06:50.956] [Xeno] [info] Version: Xeno - v1.3.00
+[2025-12-07 12:06:50.956] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-12-07_12-06-50.log
+[2025-12-07 12:06:50.960] [Xeno] [debug] Client Checker thread: 0x4c3a57e6b0
+[2025-12-07 12:06:50.960] [Xeno] [debug] Xeno Caching thread: 0x4c3a57e6a0
+[2025-12-07 12:06:50.960] [Xeno] [debug] WebSockets Cleaner thread: 0x4c3a57e690
+[2025-12-07 12:06:50.960] [Xeno] [debug] Xeno Server thread: 0x4c3a57e680
+[2025-12-07 12:06:50.967] [Server] [info] Listening on http://localhost:3110
+[2025-12-07 12:06:50.972] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-12-07 12:07:11.042] [Xeno] [info] Creating new RBXClient: 26520
+[2025-12-07 12:07:11.043] [RBXClient] [info] [26520]: Initializing...
+[2025-12-07 12:07:11.043] [RBXClient] [info] [26520]: Version: version-dbb4f481c3cc443b
+[2025-12-07 12:07:11.043] [Xeno] [debug] Created RBXClient instance @0x1cb8274bb70
+[2025-12-07 12:07:11.043] [Xeno] [info] Successfully created RBXClient: 26520
+[2025-12-07 12:07:11.045] [RBXClient] [debug] [26520]: Fetching DataModel...
+[2025-12-07 12:07:11.093] [RBXClient] [debug] [26520]: 	String: 0x1fd23f643d0
+[2025-12-07 12:07:11.093] [RBXClient] [debug] [26520]: 	RenderView: 0x1fd180a2800
+[2025-12-07 12:07:11.093] [RBXClient] [debug] [26520]: DataModel (Ugc): 0x1fd15e18638
+[2025-12-07 12:07:11.094] [RBXClient] [debug] [26520]: LocalPlayer: 0x1fd1e486080
+[2025-12-07 12:07:11.094] [RBXClient] [debug] [23r23r23r2327 (26520)]: LocalPlayer Name: '23r23r23r2327'
+[2025-12-07 12:07:11.095] [RBXClient] [trace] [23r23r23r2327 (26520)]: Attaching in-game using translation module.
+[2025-12-07 12:07:11.096] [RBXClient] [debug] [23r23r23r2327 (26520)]: EventConnection: 0x1fd24541740, SharedString: 0x1fd1fdba180
+[2025-12-07 12:07:11.250] [RBXClient] [trace] [23r23r23r2327 (26520)]: Intercepted translation module @0x1fd24544680
+[2025-12-07 12:07:11.684] [RBXClient] [warning] [23r23r23r2327 (26520)]: Attach is taking longer than expected... (I hate you 23r23r23r2327)
+[2025-12-07 12:07:13.988] [RBXClient] [warning] [23r23r23r2327 (26520)]: Did not receive the success ping from client, trying one last time...
+[2025-12-07 12:07:16.104] [RBXClient] [warning] [23r23r23r2327 (26520)]: Still did not receive the success ping from client. Attempting to restart current thread...
+[2025-12-07 12:07:16.104] [RBXClient] [info] [23r23r23r2327 (26520)]: RenderView retrieved from Cache: 0x1fd180a2800
+[2025-12-07 12:07:16.104] [RBXClient] [debug] [23r23r23r2327 (26520)]: DataModel (Ugc): 0x1fd15e18638
+[2025-12-07 12:07:16.105] [RBXClient] [debug] [23r23r23r2327 (26520)]: LocalPlayer: 0x1fd1e486080
+[2025-12-07 12:07:16.105] [RBXClient] [debug] [23r23r23r2327 (26520)]: LocalPlayer Name: '23r23r23r2327'
+[2025-12-07 12:07:16.105] [RBXClient] [trace] [23r23r23r2327 (26520)]: Attaching in-game using translation module.
+[2025-12-07 12:07:16.106] [RBXClient] [debug] [23r23r23r2327 (26520)]: EventConnection: 0x1fd24541740, SharedString: 0x1fd1fdba180
+[2025-12-07 12:07:16.270] [RBXClient] [trace] [23r23r23r2327 (26520)]: Intercepted translation module @0x1fd24544680
+[2025-12-07 12:07:16.588] [RBXClient] [warning] [23r23r23r2327 (26520)]: Attach is taking longer than expected... (I hate you 23r23r23r2327)
+[2025-12-07 12:07:18.895] [RBXClient] [critical] [23r23r23r2327 (26520)]: Could not attach in-game. Something may be interfering with the attach process. Please contact me (Rizve) if this issue persists.
+[2025-12-07 12:07:46.752] [Xeno] [error] RBXFunctions offsets are invalid and almost crashed Xeno. Please update your client to the latest supported version!
+[2025-12-07 12:07:46.752] [Xeno] [error] Failed to block function "OpenUrl" from Instance 'LinkingService' @0x1fd262fcaa0
+[2025-12-07 12:07:46.753] [Xeno] [error] RBXFunctions offsets are invalid and almost crashed Xeno. Please update your client to the latest supported version!
+[2025-12-07 12:07:46.753] [Xeno] [error] Failed to block function "SaveScriptProfilingData" from Instance 'ScriptProfilerService' @0x1fd28441e80
+[2025-12-07 12:07:46.753] [Xeno] [error] RBXFunctions offsets are invalid and almost crashed Xeno. Please update your client to the latest supported version!
+[2025-12-07 12:07:46.753] [Xeno] [error] Failed to block function "ExecuteJavaScript" from Instance 'BrowserService' @0x1fd24300300
+[2025-12-07 12:07:46.754] [Xeno] [error] RBXFunctions offsets are invalid and almost crashed Xeno. Please update your client to the latest supported version!
+[2025-12-07 12:07:46.754] [Xeno] [error] Failed to block function "Run" from Instance 'TestService' @0x1fd2843b980
+[2025-12-07 12:07:46.755] [RBXClient] [trace] [23r23r23r2327 (26520)]: Attach ping received from client "23r23r23r2327", This indicates everything was successful.
+[2025-12-07 12:08:08.719] [Xeno] [info] Removed RBXClient: 26520

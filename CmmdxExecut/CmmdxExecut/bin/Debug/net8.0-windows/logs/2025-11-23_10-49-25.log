@@ -1,0 +1,27 @@
+[2025-11-23 10:49:25.848] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-11-23 10:49:25.848] [Xeno] [info] Version: Xeno - v1.3.00
+[2025-11-23 10:49:25.848] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-11-23_10-49-25.log
+[2025-11-23 10:49:25.850] [Xeno] [debug] Client Checker thread: 0x9591d7ec00
+[2025-11-23 10:49:25.850] [Xeno] [debug] Xeno Caching thread: 0x9591d7ebf0
+[2025-11-23 10:49:25.850] [Xeno] [debug] WebSockets Cleaner thread: 0x9591d7ebe0
+[2025-11-23 10:49:25.850] [Xeno] [debug] Xeno Server thread: 0x9591d7ebd0
+[2025-11-23 10:49:25.850] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-11-23 10:49:25.851] [Server] [info] Listening on http://localhost:3110
+[2025-11-23 10:49:28.724] [Xeno] [info] Creating new RBXClient: 28844
+[2025-11-23 10:49:28.724] [RBXClient] [info] [28844]: Initializing...
+[2025-11-23 10:49:28.724] [RBXClient] [info] [28844]: Version: version-e380c8edc8f6477c
+[2025-11-23 10:49:28.724] [Xeno] [debug] Created RBXClient instance @0x24a0268d230
+[2025-11-23 10:49:28.724] [Xeno] [info] Successfully created RBXClient: 28844
+[2025-11-23 10:49:28.725] [RBXClient] [debug] [28844]: Fetching DataModel...
+[2025-11-23 10:49:28.746] [RBXClient] [debug] [28844]: 	String: 0x1470eb728d0
+[2025-11-23 10:49:28.746] [RBXClient] [debug] [28844]: 	RenderView: 0x1470c812400
+[2025-11-23 10:49:28.746] [RBXClient] [debug] [28844]: DataModel (Ugc): 0x14700c2b638
+[2025-11-23 10:49:28.746] [RBXClient] [debug] [28844]: LocalPlayer: 0x147047f0080
+[2025-11-23 10:49:28.746] [RBXClient] [debug] [wefweffwefe4 (28844)]: LocalPlayer Name: 'wefweffwefe4'
+[2025-11-23 10:49:28.746] [RBXClient] [trace] [wefweffwefe4 (28844)]: Attaching in-game using translation module.
+[2025-11-23 10:49:28.747] [RBXClient] [debug] [wefweffwefe4 (28844)]: EventConnection: 0x14704904600, SharedString: 0x14708d3e1c0
+[2025-11-23 10:49:28.882] [RBXClient] [trace] [wefweffwefe4 (28844)]: Intercepted translation module @0x14704907c00
+[2025-11-23 10:49:28.905] [RBXClient] [trace] [wefweffwefe4 (28844)]: Attach ping received from client "wefweffwefe4", This indicates everything was successful.
+[2025-11-23 10:49:55.589] [Execution] [error] [28844]: Failed to compile (this is a problem with your script): :3: Incomplete statement: expected assignment or a function call
+[2025-11-23 10:49:55.741] [Execution] [error] [28844]: Failed to compile (this is a problem with your script): :3: Incomplete statement: expected assignment or a function call
+[2025-11-23 10:49:56.045] [Execution] [error] [28844]: Failed to compile (this is a problem with your script): :3: Incomplete statement: expected assignment or a function call

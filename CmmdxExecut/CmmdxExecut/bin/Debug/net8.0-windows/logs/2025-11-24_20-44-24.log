@@ -1,0 +1,9 @@
+[2025-11-24 20:44:24.336] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-11-24 20:44:24.336] [Xeno] [info] Version: Xeno - v1.3.00
+[2025-11-24 20:44:24.336] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-11-24_20-44-24.log
+[2025-11-24 20:44:24.337] [Xeno] [debug] Client Checker thread: 0x32995cec30
+[2025-11-24 20:44:24.337] [Xeno] [debug] Xeno Caching thread: 0x32995cec20
+[2025-11-24 20:44:24.338] [Xeno] [debug] WebSockets Cleaner thread: 0x32995cec10
+[2025-11-24 20:44:24.338] [Xeno] [debug] Xeno Server thread: 0x32995cec00
+[2025-11-24 20:44:24.338] [Server] [info] Listening on http://localhost:3110
+[2025-11-24 20:44:24.338] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin

@@ -1,0 +1,25 @@
+[2025-11-23 12:30:36.542] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-11-23 12:30:36.542] [Xeno] [info] Version: Xeno - v1.3.00
+[2025-11-23 12:30:36.542] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-11-23_12-30-36.log
+[2025-11-23 12:30:36.543] [Xeno] [debug] Client Checker thread: 0x6efd7e790
+[2025-11-23 12:30:36.543] [Xeno] [debug] Xeno Caching thread: 0x6efd7e780
+[2025-11-23 12:30:36.544] [Xeno] [debug] WebSockets Cleaner thread: 0x6efd7e770
+[2025-11-23 12:30:36.544] [Xeno] [debug] Xeno Server thread: 0x6efd7e760
+[2025-11-23 12:30:36.544] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-11-23 12:30:36.544] [Server] [info] Listening on http://localhost:3110
+[2025-11-23 12:30:36.544] [Cache] [info] Reattaching to cached client PID: 29784
+[2025-11-23 12:30:36.544] [Cache] [info] Loaded existing cache: 1 RBXClients, 1 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2025-11-23 12:30:36.545] [Xeno] [info] Creating new RBXClient: 29784
+[2025-11-23 12:30:36.546] [RBXClient] [info] [29784]: Initializing...
+[2025-11-23 12:30:36.546] [RBXClient] [info] [29784]: Version: version-e380c8edc8f6477c
+[2025-11-23 12:30:36.546] [Xeno] [debug] Created RBXClient instance @0x11882578bb0
+[2025-11-23 12:30:36.546] [Xeno] [info] Successfully created RBXClient: 29784
+[2025-11-23 12:30:36.547] [Cache] [trace] [29784]: Loaded EventConnectionSharedString as 0x1f696be3d40
+[2025-11-23 12:30:36.547] [Cache] [trace] [29784]: Client was previously activated and handled successfully
+[2025-11-23 12:30:36.547] [RBXClient] [info] [29784]: RenderView retrieved from Cache: 0x1f699442400
+[2025-11-23 12:30:36.547] [RBXClient] [debug] [29784]: DataModel (Ugc): 0x1f68b81c238
+[2025-11-23 12:30:36.548] [RBXClient] [debug] [29784]: LocalPlayer: 0x1f693743080
+[2025-11-23 12:30:36.548] [RBXClient] [debug] [wefweffwefe4 (29784)]: LocalPlayer Name: 'wefweffwefe4'
+[2025-11-23 12:30:36.549] [RBXClient] [info] [wefweffwefe4 (29784)]: Client was already attached, handling important core functions for the client :D
+[2025-11-23 12:30:55.417] [Xeno] [info] Removed RBXClient: 29784
+[2025-11-23 12:31:00.425] [Xeno] [info] Cleaned up '29784' from InitializedClients

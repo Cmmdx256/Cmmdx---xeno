@@ -1,0 +1,32 @@
+[2025-12-07 17:26:40.907] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-12-07 17:26:40.907] [Xeno] [info] Version: Xeno - v1.3.05
+[2025-12-07 17:26:40.907] [Xeno] [info] Log file: C:\Users\sound\Desktop\Cmmdx - xeno\CmmdxExecut\CmmdxExecut\bin\Debug\net8.0-windows\logs\2025-12-07_17-26-40.log
+[2025-12-07 17:26:40.908] [Xeno] [debug] Client Checker thread: 0x7e2d97e9a0
+[2025-12-07 17:26:40.908] [Xeno] [debug] Xeno Caching thread: 0x7e2d97e990
+[2025-12-07 17:26:40.908] [Xeno] [debug] WebSockets Cleaner thread: 0x7e2d97e980
+[2025-12-07 17:26:40.908] [Cache] [info] Caching file: C:\Users\sound\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-12-07 17:26:40.908] [Xeno] [debug] Xeno Server thread: 0x7e2d97e970
+[2025-12-07 17:26:40.909] [Server] [info] Listening on http://localhost:3110
+[2025-12-07 17:27:42.476] [Xeno] [info] Creating new RBXClient: 16936
+[2025-12-07 17:27:42.476] [RBXClient] [info] [16936]: Initializing...
+[2025-12-07 17:27:42.476] [RBXClient] [info] [16936]: Version: version-dbb4f481c3cc443b
+[2025-12-07 17:27:42.476] [Xeno] [debug] Created RBXClient instance @0x26e0270dfd0
+[2025-12-07 17:27:42.476] [Xeno] [info] Successfully created RBXClient: 16936
+[2025-12-07 17:27:42.477] [RBXClient] [debug] [16936]: Fetching DataModel...
+[2025-12-07 17:27:42.499] [RBXClient] [debug] [16936]: 	String: 0x1fb8e234fd0
+[2025-12-07 17:27:42.499] [RBXClient] [debug] [16936]: 	RenderView: 0x1fb8e202800
+[2025-12-07 17:27:42.499] [RBXClient] [debug] [16936]: DataModel (Ugc): 0x1fb80b9aa38
+[2025-12-07 17:27:42.499] [RBXClient] [debug] [16936]: LocalPlayer: 0x1fb8fcf1080
+[2025-12-07 17:27:42.499] [RBXClient] [debug] [23r23r23r2327 (16936)]: LocalPlayer Name: '23r23r23r2327'
+[2025-12-07 17:27:42.500] [RBXClient] [trace] [23r23r23r2327 (16936)]: Attaching in-game using translation module.
+[2025-12-07 17:27:42.501] [RBXClient] [debug] [23r23r23r2327 (16936)]: EventConnection: 0x1fb89537b00, SharedString: 0x1fb8b405c00
+[2025-12-07 17:27:42.670] [RBXClient] [trace] [23r23r23r2327 (16936)]: Intercepted translation module @0x1fb8953aa40
+[2025-12-07 17:27:42.987] [RBXClient] [warning] [23r23r23r2327 (16936)]: Attach is taking longer than expected... (I hate you 23r23r23r2327)
+[2025-12-07 17:27:45.289] [RBXClient] [warning] [23r23r23r2327 (16936)]: Did not receive the success ping from client, trying one last time...
+[2025-12-07 17:27:47.415] [RBXClient] [warning] [23r23r23r2327 (16936)]: Still did not receive the success ping from client. Attempting to restart current thread...
+[2025-12-07 17:27:47.416] [RBXClient] [info] [23r23r23r2327 (16936)]: RenderView retrieved from Cache: 0x1fb8e202800
+[2025-12-07 17:27:47.416] [RBXClient] [debug] [23r23r23r2327 (16936)]: DataModel (Ugc): 0x1fb80b9aa38
+[2025-12-07 17:27:47.416] [RBXClient] [debug] [23r23r23r2327 (16936)]: LocalPlayer: 0x1fb8fcf1080
+[2025-12-07 17:27:47.416] [RBXClient] [debug] [23r23r23r2327 (16936)]: LocalPlayer Name: '23r23r23r2327'
+[2025-12-07 17:27:47.417] [RBXClient] [info] [23r23r23r2327 (16936)]: Client was already attached, handling important core functions for the client :D
+[2025-12-07 17:27:53.520] [RBXClient] [trace] [23r23r23r2327 (16936)]: Attach ping received from client "23r23r23r2327", This indicates everything was successful.
