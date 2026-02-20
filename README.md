@@ -175,14 +175,14 @@ This project does not promote misuse, service violation, or unfair advantage in 
 
 📁 Project Structure (Example)
 /NativeCore
-    ├── MemoryModel.cpp
-    ├── Structures.hpp
-    ├── CoreLogic.cpp
+    ├── Program.cs
+    ├── Form2.cs
+    ├── Form1.cs
 
 /ManagedLayer
-    ├── UIController.cs
-    ├── NativeWrapper.cs
-    ├── Program.cs
+    ├── Xeno.dll
+    ├── DataLib.dtb
+    ├── ProgramDesigner.cs
 
 🏁 Conclusion
 
